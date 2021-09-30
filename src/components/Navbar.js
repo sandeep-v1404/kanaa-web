@@ -19,9 +19,6 @@ const Navigationbar = () => {
                         <Nav.Link className="text-uppercase fw-bolder" as={Link} to="/admission">
                             Admission
                         </Nav.Link>
-                        <Nav.Link className="text-uppercase fw-bolder" as={Link} to="/what-we-do">
-                            What we do
-                        </Nav.Link>
                         <Nav.Link className="text-uppercase fw-bolder" as={Link} to="/about">
                             About Us
                         </Nav.Link>

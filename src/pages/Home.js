@@ -2,6 +2,10 @@ import React from 'react'
 import ImageCarousel from '../components/ImageCarousel';
 import AboutUs from "../components/AboutUs"
 import { Container, Row, Col } from 'react-bootstrap';
+import InfiniteSlider from '../components/InfiniteSlider';
+import CounterUp from '../components/CounterUp';
+import AdmissionCTA from '../components/AdmissionCTA';
+import Activities from '../components/Activities';
 const Home = () => {
     return (
         <>
@@ -11,7 +15,11 @@ const Home = () => {
                         <ImageCarousel />
                     </Col>
                 </Row>
+                <InfiniteSlider />
                 <AboutUs />
+                <CounterUp />
+                <Activities />
+                <AdmissionCTA />
             </Container>
         </>
     )
