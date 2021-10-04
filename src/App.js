@@ -8,6 +8,8 @@ import Home from './pages/Home';
 import AboutUs from './components/AboutUs';
 import Admission from './pages/Admission';
 import ScrollToTop from './utils/ScrollToTop';
+import Activities from './pages/Activities';
+import Activity from './pages/Activity';
 
 function App() {
   return (
@@ -15,8 +17,10 @@ function App() {
       <Navigationbar />
       <ScrollToTop />
       <Route path="/" component={Home} exact />
-      <Route path="/about" component={AboutUs} exact />
       <Route path="/admission" component={Admission} exact />
+      <Route path="/activities" component={Activities} exact />
+      <Route path="/activities/:id" component={Activity} exact />
+      <Route path="/about" component={AboutUs} exact />
       <Footer />
     </Router>
   );

@@ -5,21 +5,24 @@ import { Container, Row, Col } from 'react-bootstrap';
 import InfiniteSlider from '../components/InfiniteSlider';
 import CounterUp from '../components/CounterUp';
 import AdmissionCTA from '../components/AdmissionCTA';
-import Activities from '../components/Activities';
+import ActivitiesPane from '../components/ActivitiesPane';
+import OurMission from '../components/OurMission';
+
 const Home = () => {
     return (
         <>
             <Container fluid className="mt-5">
                 <Row>
                     <Col>
-                        <ImageCarousel />
+                        <ImageCarousel images={['/images/1.jpg', '/images/2.jpg', '/images/4.jpg']} />
                     </Col>
                 </Row>
                 <InfiniteSlider />
                 <AboutUs />
                 <CounterUp />
-                <Activities />
+                <ActivitiesPane />
                 <AdmissionCTA />
+                <OurMission />
             </Container>
         </>
     )

@@ -7,7 +7,7 @@ const Admission = () => {
         <Container className="mt-5 text-light text-center">
             <Row style={{ marginTop: "100px" }} className="justify-content-around align-items-center ">
                 <Col md={6} sm={12}>
-                    <ImageCarousel />
+                    <ImageCarousel images={['/images/1.jpg', '/images/2.jpg', '/images/4.jpg']} />
                 </Col>
                 <Col md={6} sm={12}>
                     <Card bg={"dark"} text={'white'}>

@@ -91,6 +91,18 @@ body {
   width: 100%;
   height: auto;
 }
+.modal-actitivy {
+  background: red;
+}
+.navigation {
+  margin-bottom: 5rem;
+}
+
+.mission_icon {
+  background: #b1e693;
+  color: white;
+  padding: 50px;
+}
 
 @keyframes animate {
   0% {

@@ -5,10 +5,10 @@ import InfoCard from './InfoCard'
 const AboutUs = () => {
     return (
         <Container fluid>
-            <Row>
-                <Col className="primary__background" ><InfoCard /></Col>
-                <Col className="primary__background__light" ><InfoCard /></Col>
-                <Col className=" primary__background"><InfoCard /></Col>
+            <Row >
+                <Col sm={12} md={4} className="primary__background" ><InfoCard /></Col>
+                <Col sm={12} md={4} className="primary__background__light" ><InfoCard /></Col>
+                <Col sm={12} md={4} className=" primary__background"><InfoCard /></Col>
             </Row>
         </Container>
     )

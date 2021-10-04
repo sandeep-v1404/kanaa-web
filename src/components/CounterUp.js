@@ -1,12 +1,12 @@
 import React from 'react'
 import { Container, Row, Col, Card } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCalendarAlt, faHandHoldingHeart, faHandsHelping, faUsers } from '@fortawesome/free-solid-svg-icons'
+import { faCalendarAlt, faHandHoldingHeart, faUsers } from '@fortawesome/free-solid-svg-icons'
 const CounterUp = () => {
     return (
         <Container className="text-light text-center">
             <h2 className="my-5 fw-bolder">Numbers that tell our story​</h2>
-            <Row className="justify-content-around">
+            <Row xs={1} sm={1} md={3} className="justify-content-around">
                 <Col>
                     <div className="counter-box">
                         <FontAwesomeIcon className="icon" size="2x" icon={faCalendarAlt} />
