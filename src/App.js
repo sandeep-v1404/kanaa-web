@@ -5,11 +5,12 @@ import Footer from './components/Footer';
 
 import { BrowserRouter as Router, Route } from 'react-router-dom'
 import Home from './pages/Home';
-import AboutUs from './components/AboutUs';
 import Admission from './pages/Admission';
 import ScrollToTop from './utils/ScrollToTop';
 import Activities from './pages/Activities';
 import Activity from './pages/Activity';
+import About from './components/About';
+import JoinUs from './components/JoinUs';
 
 function App() {
   return (
@@ -20,7 +21,8 @@ function App() {
       <Route path="/admission" component={Admission} exact />
       <Route path="/activities" component={Activities} exact />
       <Route path="/activities/:id" component={Activity} exact />
-      <Route path="/about" component={AboutUs} exact />
+      <Route path="/about" component={About} exact />
+      <Route path="/join-now" component={JoinUs} exact />
       <Footer />
     </Router>
   );

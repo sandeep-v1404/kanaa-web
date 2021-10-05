@@ -1,6 +1,5 @@
 import React from 'react'
-import { Container, Row, Col, Card, Button } from 'react-bootstrap'
-import InfoCard from './InfoCard'
+import { Container, Row, Col, Card } from 'react-bootstrap'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCalendarAlt } from '@fortawesome/free-solid-svg-icons'
 
@@ -16,7 +15,7 @@ const OurMission = () => {
                             <Col xs={12} sm={12} md={4} className="text-center mission_icon">
                                 <FontAwesomeIcon className="icon" icon={faCalendarAlt} size="2x" />
                             </Col>
-                            <Col sm={12} md={8}>
+                            <Col className="mission_desc" sm={12} md={8}>
                                 <Card.Title>Special title treatment</Card.Title>
                                 <Card.Text>
                                     With supporting text below as a natural lead-in to additional content.
@@ -31,7 +30,7 @@ const OurMission = () => {
                             <Col xs={12} sm={12} md={4} className="text-center mission_icon">
                                 <FontAwesomeIcon className="icon" icon={faCalendarAlt} size="2x" />
                             </Col>
-                            <Col sm={12} md={8}>
+                            <Col className="mission_desc" sm={12} md={8}>
                                 <Card.Title>Special title treatment</Card.Title>
                                 <Card.Text>
                                     With supporting text below as a natural lead-in to additional content.
@@ -46,7 +45,7 @@ const OurMission = () => {
                             <Col xs={12} sm={12} md={4} className="text-center mission_icon">
                                 <FontAwesomeIcon className="icon" icon={faCalendarAlt} size="2x" />
                             </Col>
-                            <Col sm={12} md={8}>
+                            <Col className="mission_desc" sm={12} md={8}>
                                 <Card.Title>Special title treatment</Card.Title>
                                 <Card.Text>
                                     With supporting text below as a natural lead-in to additional content.
@@ -61,7 +60,7 @@ const OurMission = () => {
                             <Col xs={12} sm={12} md={4} className="text-center mission_icon">
                                 <FontAwesomeIcon className="icon" icon={faCalendarAlt} size="2x" />
                             </Col>
-                            <Col sm={12} md={8}>
+                            <Col className="mission_desc" sm={12} md={8}>
                                 <Card.Title>Special title treatment</Card.Title>
                                 <Card.Text>
                                     With supporting text below as a natural lead-in to additional content.
@@ -76,7 +75,7 @@ const OurMission = () => {
                             <Col xs={12} sm={12} md={4} className="text-center mission_icon">
                                 <FontAwesomeIcon className="icon" icon={faCalendarAlt} size="2x" />
                             </Col>
-                            <Col sm={12} md={8}>
+                            <Col className="mission_desc" sm={12} md={8}>
                                 <Card.Title>Special title treatment</Card.Title>
                                 <Card.Text>
                                     With supporting text below as a natural lead-in to additional content.
@@ -91,7 +90,7 @@ const OurMission = () => {
                             <Col xs={12} sm={12} md={4} className="text-center mission_icon">
                                 <FontAwesomeIcon className="icon" icon={faCalendarAlt} size="2x" />
                             </Col>
-                            <Col sm={12} md={8}>
+                            <Col className="mission_desc" sm={12} md={8}>
                                 <Card.Title>Special title treatment</Card.Title>
                                 <Card.Text>
                                     With supporting text below as a natural lead-in to additional content.

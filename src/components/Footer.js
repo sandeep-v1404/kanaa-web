@@ -3,6 +3,7 @@ import "../Footer.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelopeOpen, faMapMarkerAlt, faPhone } from '@fortawesome/free-solid-svg-icons'
 import { faFacebook, faInstagram, faTwitter } from '@fortawesome/free-brands-svg-icons'
+
 const Footer = () => {
     const year = new Date().getFullYear()
     return (
@@ -103,7 +104,7 @@ const Footer = () => {
                     <div className="row">
                         <div className="col text-center">
                             <div className="copyright-text">
-                                <p>Copyright &copy; {year}, All Right Reserved <a href="https://codepen.io/anupkumar92/">Anup</a></p>
+                                <p>Copyright &copy; {year}, All Right Reserved <a href="https://codepen.io/anupkumar92/">Kaana</a></p>
                             </div>
                         </div>
                     </div>

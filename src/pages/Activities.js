@@ -5,8 +5,8 @@ import * as activities from "../data/Activities.json"
 
 const Activities = () => {
     return (
-        <Container className="text-light">
-            <Row className="p-5 bg-warning">
+        <Container fluid className="text-light">
+            <Row className="p-3 p-md-5 bg-warning">
                 <Col>
                     <h2 className="fw-bolder text-dark">Activities</h2>
                 </Col>

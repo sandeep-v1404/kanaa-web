@@ -6,14 +6,14 @@ import * as activities from "../data/Activities.json"
 const Activity = ({ match }) => {
     return (
 
-        <Container className="text-light">
+        <Container fluid className="text-light">
             {activities.data.map((activity, idx) => {
 
                 return idx == match.params.id && (<>
 
-                    <Row className="p-5 bg-warning">
+                    <Row className=" bg-warning">
                         <Col>
-                            <h2 className="fw-bolder text-dark">{activity.heading}</h2>
+                            <h2 className="p-md-5 p-2 fw-bolder text-dark">{activity.heading}</h2>
                         </Col>
                     </Row>
                     <Row className="mt-2 justify-content-around align-items-center " >
