@@ -5,7 +5,7 @@ import TestimonialVol from './TestimonialVol';
 
 const JoinUs = () => {
     return (
-        <Container className="text-light">
+        <Container >
             <Row className="p-3 p-md-5 bg-warning">
                 <Col>
                     <h2 className="fw-bolder text-dark">Join Us</h2>

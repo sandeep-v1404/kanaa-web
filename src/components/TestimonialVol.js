@@ -20,7 +20,7 @@ const breakPoints = [
 
 ];
 
-const Item = () => {
+const Item = ({ content }) => {
     return <>
         <Card style={{ width: "100%" }} className="test-card text-center">
             <div className="test-img">
@@ -29,8 +29,7 @@ const Item = () => {
             <Card.Body>
                 <Card.Title>Card Title</Card.Title>
                 <Card.Text>
-                    Some quick example text to build on the card title and make up the bulk of
-                    the card's content.
+                    {content}
                 </Card.Text>
             </Card.Body>
         </Card>
@@ -43,19 +42,25 @@ const TestimonialVol = () => {
             <h2 className="text-center fw-bolder pt-3 my-5 text-light">Volunteer Testimonials</h2>
 
             <Carousel breakPoints={breakPoints}>
-                <Item>
-                    <img src="/images/1.jpg" alt="igm" className="corousel-img" />
-                    <div className="corousel-content">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, iure?</p>
-                    </div>
-                </Item>
-                <Item>Two</Item>
-                <Item>Three</Item>
-                <Item>Four</Item>
-                <Item>Five</Item>
-                <Item>Six</Item>
-                <Item>Seven</Item>
-                <Item>Eight</Item>
+                <Item content="Some quick example text to build on the card title and make up the bulk of
+                    the card's content."/>
+                <Item content="Some quick example text to build on the card title and make up the bulk of
+                    the card's content.Some quick example text to build on the card title and make up the bulk of
+                    the card's content."/>
+                <Item content="Some quick example text to build on the card title and make up the bulk of
+                    the card's content.Some quick example text to build on the card title and make up the bulk of
+                    the card's content.Some quick example text to build on the card title and make up the bulk of
+                    the card's content."/>
+                <Item content="Some quick example text to build on the card title and make up the bulk of
+                    the card's content.Some quick example text to build on the card title and make up the bulk of
+                    the card's content.Some quick example text to build on the card title and make up the bulk of
+                    the card's content..Some quick example text to build on the card title and make up the bulk of
+                    the card's content."/>
+                <Item />
+                <Item />
+                <Item />
+                <Item />
+                <Item />
             </Carousel>
         </>
     )

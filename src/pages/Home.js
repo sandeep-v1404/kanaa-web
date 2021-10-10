@@ -10,14 +10,14 @@ import OurMission from '../components/OurMission';
 import TestimonialVol from '../components/TestimonialVol';
 import TestimonialStudents from '../components/TestimonialStudents';
 import Awards from '../components/Awards';
-
+import * as data from "../data"
 const Home = () => {
     return (
         <>
             <Container fluid className="mt-5">
                 <Row>
                     <Col>
-                        <ImageCarousel images={['/images/1.jpg', '/images/2.jpg', '/images/4.jpg']} />
+                        <ImageCarousel caption={true} images={data.homeSlider.images} content={data.homeSlider.content} />
                     </Col>
                 </Row>
                 <InfiniteSlider />

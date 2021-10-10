@@ -11,9 +11,9 @@ const CounterUp = () => {
                     <div className="counter-box">
                         <FontAwesomeIcon className="icon" size="2x" icon={faCalendarAlt} />
                         <Card.Body>
-                            <Card.Title>7+  </Card.Title>
+                            <Card.Title> 50+  </Card.Title>
                             <Card.Text>
-                                YEARS
+                                Volunteers
                             </Card.Text>
                         </Card.Body>
                     </div>
@@ -22,9 +22,9 @@ const CounterUp = () => {
                     <div className="counter-box">
                         <FontAwesomeIcon className="icon" size="2x" icon={faHandHoldingHeart} />
                         <Card.Body>
-                            <Card.Title>3500+  </Card.Title>
+                            <Card.Title>18+</Card.Title>
                             <Card.Text>
-                                LIVES TOUCHED
+                                Tutors
                             </Card.Text>
                         </Card.Body>
                     </div>

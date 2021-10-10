@@ -1,23 +1,27 @@
 import React from 'react'
 import { Carousel } from 'react-bootstrap'
 
-const ImageCarousel = ({ images }) => {
+const ImageCarousel = ({ images, caption, autoChange, content }) => {
     return (
-        <Carousel variant="dark" fade>
+        <Carousel fade className={"image-corousel" && (!caption && "p-4") && (content && "")}>
             {images.map((image, idx) =>
-                <Carousel.Item interval={1000}>
+                <Carousel.Item key={idx} interval={autoChange === false ? null : 1000}>
                     <img
-                        className="d-block w-100"
+                        className="d-block w-100 "
                         src={image}
                         alt="Second slide"
                     />
-                    <Carousel.Caption>
-                        <h3>First slide label</h3>
-                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-                    </Carousel.Caption>
+                    {
+                        content &&
+                        <Carousel.Caption>
+                            <h3>{content[idx].heading}</h3>
+                            <p>{content[idx].description}</p>
+                        </Carousel.Caption>
+                    }
                 </Carousel.Item>
-            )}
-        </Carousel>
+            )
+            }
+        </Carousel >
     )
 }
 

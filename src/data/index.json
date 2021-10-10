@@ -1,0 +1,198 @@
+{
+    "homeSlider": {
+        "images": [
+            "https://res.cloudinary.com/teamkanaa/image/upload/v1632818760/Kanaa Website/Slider/Slider 1.jpg",
+            "https://res.cloudinary.com/teamkanaa/image/upload/v1632825612/Kanaa Website/Slider/2.jpg",
+            "https://res.cloudinary.com/teamkanaa/image/upload/v1632825686/Kanaa Website/Slider/3.jpg",
+            "https://res.cloudinary.com/teamkanaa/image/upload/v1632826176/Kanaa Website/Slider/4.jpg",
+            "https://res.cloudinary.com/teamkanaa/image/upload/v1632827040/Kanaa Website/Slider/5.jpg",
+            "https://res.cloudinary.com/teamkanaa/image/upload/v1632826917/Kanaa Website/Slider/6.jpg"
+        ],
+        "content": [
+            {
+                "id": 0,
+                "heading": null,
+                "description": null
+            },
+            {
+                "id": 1,
+                "heading": "You make a living by what you get.. you make a life by what you give..",
+                "description": "Start where you are.. use what you have.. do what you can.."
+            },
+            {
+                "id": 2,
+                "heading": "If everyone is moving forward together, then success takes care of itself",
+                "description": "Coming together is a beginning. Keeping together is progress. Working together is success."
+            },
+            {
+                "id": 3,
+                "heading": "The foundation for future prosperity is built on the bedrock of good jobs and great schools..",
+                "description": "Learning is a treasure that will follow its owner everywhere and the environment for that treasure will make great impact on the minds of those who pursue it"
+            },
+            {
+                "id": 4,
+                "heading": "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. - Steve Jobs.",
+                "description": "You cannot teach a man anything; you can only help him find it within himself. We made them find it"
+            },
+            {
+                "id": 5,
+                "heading": "Until you dig a hole, you plant a tree, you water it and make it survive, you haven't done a thing. ",
+                "description": "Trees give peace to the souls of men"
+            }
+        ]
+    },
+    "activities": [
+        {
+            "id": 0,
+            "title": "Career Guidance - 15 Feb 2019",
+            "quote": "Choose a job you love and you never have to work a day in your life",
+            "description": "Career planning is the usual issue every teenager will be facing during the stage of passing out from school life. They will be in a complete dilemma with lots and lots of questions lingering over their minds. Our team have reached the government schools in some areas of Chennai such as ChoolaiMedu, Aminjikarai and Nungambakkam. We briefed out all the career opportunities for the students belonging to various streams and clarified their doubts regarding their choice of career. We also suggested the foundations which are out there to help for higher education for the economically weak students.",
+            "images": [
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829694/Kanaa%20Website/Activities/Career%20Guidance/1632829424958_mrdh24.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829576/Kanaa%20Website/Activities/Career%20Guidance/1632829427174_crypx5.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829574/Kanaa%20Website/Activities/Career%20Guidance/1632829427092_bubdl0.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829573/Kanaa%20Website/Activities/Career%20Guidance/1632829425930_itt8zu.jpg"
+            ],
+            "altText": "carrer-guidance"
+        },
+        {
+            "id": 1,
+            "title": "Wall Painting - 25 May 2019",
+            "quote": "Better keep yourself clean and bright; you are the window through which you see the world",
+            "description": "There is a famous proverb everyone of us must be aware of which is “Cleanliness is next to Godliness”. Our team have volunteered ourselves in creating such Godliness in a slum area nearby Triplicane, Chennai. We cleaned a barren land and the walls over there. We didn’t just stop ourselves in cleaning but also, we painted those walls and also made blackboards for the children residing around. We made the barren land colourful for the children.",
+            "images": [
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632833752/Kanaa%20Website/Activities/Wall%20Painting/1.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632833755/Kanaa%20Website/Activities/Wall%20Painting/2.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632833761/Kanaa%20Website/Activities/Wall%20Painting/3.jpg"
+            ],
+            "altText": "wall-painting"
+        },
+        {
+            "id": 2,
+            "title": "Tree Planting",
+            "quote": "He who plants a tree, plants a hope",
+            "description": "Planting tree is an investment made in nature to make our life comfortable. Our survival highly depends on trees as they are the oxygen and food providers for us. It is a contribution we make to our mother Earth. Thus, our team volunteered in reaching a school for small children in Purasaivakkam, cleaned the place over there and planted tree saplings. Also, we did gardening at that school to make the place much lively for the kids.",
+            "images": [
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1633704940/Kanaa%20Website/Activities/Tree%20planting/1.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1633704974/Kanaa%20Website/Activities/Tree%20planting/2.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1633704987/Kanaa%20Website/Activities/Tree%20planting/3.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1633704971/Kanaa%20Website/Activities/Tree%20planting/5.jpg"
+            ],
+            "altText": "Planting"
+        },
+        {
+            "id": 3,
+            "title": "Edunext",
+            "quote": "Education is the passport to future, for tomorrow belongs to those who prepare for it today",
+            "description": "Education is the most powerful weapon which you can use to change the world. The weapon should be chosen wisely which needs proper guidance. EduNest is an event we started as a next step towards career guidance. Our team guided the students of XII grade to choose their education in a wiser way and create a bright future. We reached the students of Sri Muthukumaraswamy Devasthanam P Venugopal Chetty Higher Secondary School, Purasaivakkam and gave an idea on what they can choose after their school studies. We cleared all their doubts. We made them get rid of their fears in their mind on exams and also on their future. We gave a clear idea on the course which they can avail in various colleges for different streams.",
+            "images": [
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829924/Kanaa%20Website/Activities/EduNext/1.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632830118/Kanaa%20Website/Activities/EduNext/2.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829909/Kanaa%20Website/Activities/EduNext/3.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829909/Kanaa%20Website/Activities/EduNext/4.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829909/Kanaa%20Website/Activities/EduNext/5.jpg"
+            ],
+            "altText": "Edunext"
+        },
+        {
+            "id": 4,
+            "title": "Naan Veezhven Endru Ninaithayo",
+            "quote": "Peace can only last where human rights are respected",
+            "description": "Naan Veezhven Endru Ninaithayo is an event which collected more than 5000 manuscripts on human rights which was organized by Social Protection Organization. Our team volunteered ourselves for the whole event and also supported them in collecting the manuscripts from various people. Our team supported the whole event of award distribution. Also, with immense pleasure our team received an award for volunteering in that event from the hands of Mr.Ponraj Vellaichamy who was the P.A. of Dr. A.P.J.Abdul Kalam.",
+            "images": [
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632831782/Kanaa%20Website/Activities/NVEN/1.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632831782/Kanaa%20Website/Activities/NVEN/2.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632831782/Kanaa%20Website/Activities/NVEN/3.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632831782/Kanaa%20Website/Activities/NVEN/4.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632831782/Kanaa%20Website/Activities/NVEN/5.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632832085/Kanaa%20Website/Activities/NVEN/_MG_7379_y9iujd.jpg"
+            ],
+            "altText": "carrer-guidance"
+        },
+        {
+            "id": 5,
+            "title": "Health camp",
+            "quote": "",
+            "description": "The best way to find yourself is to lose yourself in the service of others. Health is the wealth that you need and that's why Team Kanaa wanted to be a part of the Health Camp that took place in Saligramam on 12.01.2020. Our volunteers guided and helped all the registered participants at the all health check up and dental check up podiums and at the blood donation drive.",
+            "images": [
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632830659/Kanaa%20Website/Activities/Blood%20Donation%20Camp/2.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632830659/Kanaa%20Website/Activities/Blood%20Donation%20Camp/1.jpg"
+            ],
+            "altText": "Health"
+        },
+        {
+            "id": 6,
+            "title": "School Renovation",
+            "quote": "The heart of a volunteer is not measured by the size of his heart but the depth of his commitment to make a difference in the lives of others. ",
+            "description": "This Project was an initiative to repaint and renovate a Government primary school at Thiruninravur by crowdfunding as the school needed major restoration and repairs. The project was successfully completed in the second founding year of Team Kanaa and our second anniversary was celebrated along with the students, teaching and non teaching staff of the school with the presence of our supporter and volunteers. Awards and mementos were presented to our well-wishes and volunteers. School furnitures, Computers and Educational materials were provided to the school students to encourage them.",
+            "images": [
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829694/Kanaa%20Website/Activities/Career%20Guidance/1632829424958_mrdh24.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829576/Kanaa%20Website/Activities/Career%20Guidance/1632829427174_crypx5.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829574/Kanaa%20Website/Activities/Career%20Guidance/1632829427092_bubdl0.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829573/Kanaa%20Website/Activities/Career%20Guidance/1632829425930_itt8zu.jpg"
+            ],
+            "altText": "Renovation"
+        },
+        {
+            "id": 7,
+            "title": "NEET batch 2020",
+            "quote": "Start where you are, Use what you have, Do what you can!",
+            "description": "Our dream of offering free and quality NEET coaching classes to deserving students became a reality on 13.07.2020- Team Kanaa's very first batch of Free Virtual NEET Coaching classes began with a set of Passionate and deserving NEET aspirants, experienced teachers and finest medical students.",
+            "images": [
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829694/Kanaa%20Website/Activities/Career%20Guidance/1632829424958_mrdh24.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829576/Kanaa%20Website/Activities/Career%20Guidance/1632829427174_crypx5.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829574/Kanaa%20Website/Activities/Career%20Guidance/1632829427092_bubdl0.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829573/Kanaa%20Website/Activities/Career%20Guidance/1632829425930_itt8zu.jpg"
+            ],
+            "altText": "carrer-guidance"
+        },
+        {
+            "id": 8,
+            "title": "Edunext 2.0",
+            "quote": "We rise by lifting others",
+            "description": "Sometimes all that we need is the guidance of others because just listening to the experiences of a person will offer us wonderful life lessons that we can use to embark on our own journey. Team Kanaa organized a motivational talk cum webinar for all NEEt aspirants and our own batch students to eliminate their worries and fears related to the NEET exam and to clarify all their career related doubts and queries from a professional. Dr. Prabhakar, an eminent Orthopedicaian answered all their queries in a hour long fun and interactive session by preparing and motivating them to face their exams confidently and enlightening them with different career options.",
+            "images": [
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829694/Kanaa%20Website/Activities/Career%20Guidance/1632829424958_mrdh24.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829576/Kanaa%20Website/Activities/Career%20Guidance/1632829427174_crypx5.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829574/Kanaa%20Website/Activities/Career%20Guidance/1632829427092_bubdl0.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829573/Kanaa%20Website/Activities/Career%20Guidance/1632829425930_itt8zu.jpg"
+            ],
+            "altText": "carrer-guidance"
+        }
+    ],
+    "info": [
+        {
+            "id": 0,
+            "title": "Dream - If you can dream it you can do it",
+            "description": "We are here to make it happen by being a support for many such dreamers who are in need."
+        },
+        {
+            "id": 1,
+            "title": "Aspire - Don't aspire to make a living Aspire to make a difference",
+            "description": "We are here to make that difference by being a guide in the paths of the aspirer's education."
+        },
+        {
+            "id": 2,
+            "title": "Do - You are what you do, not what you say you'll do",
+            "description": "We are here to do our part in reaching the unreached and do our best to uplift them."
+        }
+    ],
+    "mission": [
+        {
+            "description": "Creating awarness among students about different educational opportunities, scholarships for deserving and underprivileged students and guide students from all walks of life about the different career paths available"
+        },
+        {
+            "description": "To provide free NEET coaching classes to deserving and financially deprived students, especially government school students but also to both english and tamil medium students so that they participate in the competitive exam irrespective of their financial status or medium of instruction"
+        },
+        {
+            "description": "Putting in conscious efforts into doing better, being better people and in creating a better society"
+        },
+        {
+            "description": "Networking and crowdfunding for  deserving social causes"
+        },
+        {
+            "description": "Participating and offering our volunteering services for social causes"
+        }
+    ],
+    "aboutUs": "Our entire team of consists of 13 core members out of which 12 are engineering graduates and a meritorious medical aspirant.Although we all grew up from from different difficult circumstances and different cities, two things brought the 13 of us together: our college and our unified ambition i.e to make a difference in the lives of others. We met for the first time in 2017 and Team Kanaa was born in 2019 and we're getting stronger everyday since then. We started off as just 13 people and now we're close to 50+ volunteers and the good news is you can be a part of us too!"
+}

@@ -1,33 +1,32 @@
 import React from 'react'
 import { Container, Row, Col, Card } from 'react-bootstrap';
 import ImageCarousel from '../components/ImageCarousel';
-import * as activities from "../data/Activities.json"
+import * as data from "../data"
 
 const Activity = ({ match }) => {
     return (
 
         <Container fluid className="text-light">
-            {activities.data.map((activity, idx) => {
-
-                return idx == match.params.id && (<>
-
-                    <Row className=" bg-warning">
+            {data.activities.map((activity, idx) => {
+                return (idx == parseInt(match.params.id)) && (<>
+                    <Row className="bg-warning">
                         <Col>
-                            <h2 className="p-md-5 p-2 fw-bolder text-dark">{activity.heading}</h2>
+                            <h2 className="p-md-5 p-2 fw-bolder text-dark">{activity.title}</h2>
                         </Col>
                     </Row>
-                    <Row className="mt-2 justify-content-around align-items-center " >
-                        <Col md={6} sm={12}>
-                            <ImageCarousel images={['/images/1.jpg', '/images/2.jpg', '/images/4.jpg']} />
+                    <Row className="mt-2 justify-content-around align-items-center mb-5" >
+                        <Col md={6} sm={12} >
+                            <ImageCarousel images={activity.images} caption={false} />
                         </Col>
                         <Col md={6} sm={12}>
                             <Card bg={"dark"} text={'white'}>
                                 <Card.Body>
-                                    <Card.Title>Card Title</Card.Title>
-                                    <Card.Subtitle className="mb-2 text-muted">Card Subtitle</Card.Subtitle>
-                                    <Card.Text>
-                                        Some quick example text to build on the card title and make up the bulk of
-                                        the card's content.
+                                    <Card.Title className="fw-bolder fs-4">{activity.title}</Card.Title>
+                                    {activity.quote &&
+                                        <Card.Subtitle className="mb-2 fs-5 text-muted">"{activity.quote}"</Card.Subtitle>
+                                    }
+                                    <Card.Text className="fs-5">
+                                        {activity.description}
                                     </Card.Text>
                                 </Card.Body>
                             </Card>

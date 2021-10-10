@@ -33,9 +33,13 @@ body {
   text-decoration: none;
 }
 
+.home-page img {
+  opacity: 0.5;
+}
+
 .infinite__slider {
   height: 50px;
-  background-color: aqua;
+  background-color: #dbddf1;
   display: flex;
   align-items: center;
   cursor: default;
@@ -43,7 +47,7 @@ body {
 }
 .slider__text {
   white-space: nowrap;
-  animation: animate 8s linear infinite;
+  animation: animate 20s linear infinite;
 }
 .gallery {
   background-color: #dbddf1;
@@ -51,7 +55,7 @@ body {
 .image-card {
   position: relative;
   transition: 0.3s;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.24);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 }
 .image-card .image-description,
 .image-card:after {
@@ -90,7 +94,7 @@ body {
 .gallery .image-card img {
   background-color: #fff;
   width: 100%;
-  height: auto;
+  object-fit: contain;
 }
 .modal-actitivy {
   background: red;
@@ -132,6 +136,7 @@ body {
 }
 .test-card {
   margin: 0 15px;
+  height: 400px;
 }
 
 @keyframes animate {
