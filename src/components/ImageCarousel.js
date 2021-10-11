@@ -7,7 +7,7 @@ const ImageCarousel = ({ images, caption, autoChange, content }) => {
             {images.map((image, idx) =>
                 <Carousel.Item className="corousel-item " key={idx} interval={autoChange === false ? null : 2000}>
                     <img
-                        className={content ? "corousel-image img-fluid" : "img-fluid"}
+                        className={content ? "corousel-image w-100" : "w-100"}
                         src={image}
                         alt="Second slide"
                     />

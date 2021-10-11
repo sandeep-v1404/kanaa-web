@@ -3,6 +3,7 @@ import "../Footer.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelopeOpen, faMapMarkerAlt, faPhone } from '@fortawesome/free-solid-svg-icons'
 import { faFacebook, faInstagram, faTwitter } from '@fortawesome/free-brands-svg-icons'
+import { Link } from 'react-router-dom'
 
 const Footer = () => {
     const year = new Date().getFullYear()
@@ -54,13 +55,14 @@ const Footer = () => {
                                 </div>
                                 <div className="footer-social-icon">
                                     <span>Follow us</span>
-                                    <a href="#">
+
+                                    <a href="https://facebook.com" target="_blank" rel="noreferrer">
                                         <FontAwesomeIcon className="icon" icon={faFacebook} />
                                     </a>
-                                    <a href="#">
+                                    <a href="https://twitter.com" target="_blank" rel="noreferrer">
                                         <FontAwesomeIcon className="icon" icon={faTwitter} />
                                     </a>
-                                    <a href="#">
+                                    <a href="https://instagram.com" target="_blank" rel="noreferrer">
                                         <FontAwesomeIcon className="icon" icon={faInstagram} />
                                     </a>
                                 </div>
@@ -72,11 +74,11 @@ const Footer = () => {
                                     <h3>Useful Links</h3>
                                 </div>
                                 <ul>
-                                    <li><a href="#">Home</a></li>
-                                    <li><a href="#">about</a></li>
-                                    <li><a href="#">services</a></li>
-                                    <li><a href="#">portfolio</a></li>
-                                    <li><a href="#">Contact</a></li>
+                                    <li><Link to="/">Home</Link></li>
+                                    <li><Link to="/admission">Admission</Link></li>
+                                    <li><Link to="/activities">Activities</Link></li>
+                                    <li><Link to="/about">About Us </Link></li>
+                                    <li><Link to="/join-now">Join Now</Link></li>
                                 </ul>
                             </div>
                         </div>

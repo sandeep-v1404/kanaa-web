@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 import * as data from "../data"
 const InfiniteSlider = () => {
     return (
