@@ -16,31 +16,27 @@
             },
             {
                 "id": 1,
-                "heading": "You make a living by what you get.. you make a life by what you give..",
-                "description": "Start where you are.. use what you have.. do what you can.."
+                "heading": "You make a living by what you get.. you make a life by what you give.."
             },
             {
                 "id": 2,
-                "heading": "If everyone is moving forward together, then success takes care of itself",
-                "description": "Coming together is a beginning. Keeping together is progress. Working together is success."
+                "heading": "If everyone is moving forward together, then success takes care of itself"
             },
             {
                 "id": 3,
-                "heading": "The foundation for future prosperity is built on the bedrock of good jobs and great schools..",
-                "description": "Learning is a treasure that will follow its owner everywhere and the environment for that treasure will make great impact on the minds of those who pursue it"
+                "heading": "The foundation for future prosperity is built on the bedrock of good jobs and great schools.."
             },
             {
                 "id": 4,
-                "heading": "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. - Steve Jobs.",
-                "description": "You cannot teach a man anything; you can only help him find it within himself. We made them find it"
+                "heading": "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. - Steve Jobs."
             },
             {
                 "id": 5,
-                "heading": "Until you dig a hole, you plant a tree, you water it and make it survive, you haven't done a thing. ",
-                "description": "Trees give peace to the souls of men"
+                "heading": "Until you dig a hole, you plant a tree, you water it and make it survive, you haven't done a thing. "
             }
         ]
     },
+    "newsUpdate": "New Registrations Open ! We are back with our third batch of Free Virtual NEET Coaching Classes. Apply now by filling out the form .......... We are looking for tutors for our NEET Classes! Interested applicants can fill out the registration form ........Now you can be a part of Team Kanaa too! Register as a volunteer....",
     "activities": [
         {
             "id": 0,
@@ -69,7 +65,7 @@
         },
         {
             "id": 2,
-            "title": "Tree Planting",
+            "title": "Tree Planting - 05 Jul 2019",
             "quote": "He who plants a tree, plants a hope",
             "description": "Planting tree is an investment made in nature to make our life comfortable. Our survival highly depends on trees as they are the oxygen and food providers for us. It is a contribution we make to our mother Earth. Thus, our team volunteered in reaching a school for small children in Purasaivakkam, cleaned the place over there and planted tree saplings. Also, we did gardening at that school to make the place much lively for the kids.",
             "images": [
@@ -82,7 +78,7 @@
         },
         {
             "id": 3,
-            "title": "Edunext",
+            "title": "Edunext - 23 Oct 2019",
             "quote": "Education is the passport to future, for tomorrow belongs to those who prepare for it today",
             "description": "Education is the most powerful weapon which you can use to change the world. The weapon should be chosen wisely which needs proper guidance. EduNest is an event we started as a next step towards career guidance. Our team guided the students of XII grade to choose their education in a wiser way and create a bright future. We reached the students of Sri Muthukumaraswamy Devasthanam P Venugopal Chetty Higher Secondary School, Purasaivakkam and gave an idea on what they can choose after their school studies. We cleared all their doubts. We made them get rid of their fears in their mind on exams and also on their future. We gave a clear idea on the course which they can avail in various colleges for different streams.",
             "images": [
@@ -96,7 +92,7 @@
         },
         {
             "id": 4,
-            "title": "Naan Veezhven Endru Ninaithayo",
+            "title": "Naan Veezhven Endru Ninaithayo - 08 Dec 2019",
             "quote": "Peace can only last where human rights are respected",
             "description": "Naan Veezhven Endru Ninaithayo is an event which collected more than 5000 manuscripts on human rights which was organized by Social Protection Organization. Our team volunteered ourselves for the whole event and also supported them in collecting the manuscripts from various people. Our team supported the whole event of award distribution. Also, with immense pleasure our team received an award for volunteering in that event from the hands of Mr.Ponraj Vellaichamy who was the P.A. of Dr. A.P.J.Abdul Kalam.",
             "images": [
@@ -107,13 +103,13 @@
                 "https://res.cloudinary.com/teamkanaa/image/upload/v1632831782/Kanaa%20Website/Activities/NVEN/5.jpg",
                 "https://res.cloudinary.com/teamkanaa/image/upload/v1632832085/Kanaa%20Website/Activities/NVEN/_MG_7379_y9iujd.jpg"
             ],
-            "altText": "carrer-guidance"
+            "altText": "Naan-Veezhven-Endru-Ninaithayo"
         },
         {
             "id": 5,
-            "title": "Health camp",
-            "quote": "",
-            "description": "The best way to find yourself is to lose yourself in the service of others. Health is the wealth that you need and that's why Team Kanaa wanted to be a part of the Health Camp that took place in Saligramam on 12.01.2020. Our volunteers guided and helped all the registered participants at the all health check up and dental check up podiums and at the blood donation drive.",
+            "title": "Health camp - 12 Jan 2020",
+            "quote": "The best way to find yourself is to lose yourself in the service of others.",
+            "description": "Health is the wealth that you need and that's why Team Kanaa wanted to be a part of the Health Camp that took place in Saligramam on 12.01.2020. Our volunteers guided and helped all the registered participants at the all health check up and dental check up podiums and at the blood donation drive.",
             "images": [
                 "https://res.cloudinary.com/teamkanaa/image/upload/v1632830659/Kanaa%20Website/Activities/Blood%20Donation%20Camp/2.jpg",
                 "https://res.cloudinary.com/teamkanaa/image/upload/v1632830659/Kanaa%20Website/Activities/Blood%20Donation%20Camp/1.jpg"
@@ -122,27 +118,28 @@
         },
         {
             "id": 6,
-            "title": "School Renovation",
+            "title": "School Renovation - 10 Mar 2020",
             "quote": "The heart of a volunteer is not measured by the size of his heart but the depth of his commitment to make a difference in the lives of others. ",
             "description": "This Project was an initiative to repaint and renovate a Government primary school at Thiruninravur by crowdfunding as the school needed major restoration and repairs. The project was successfully completed in the second founding year of Team Kanaa and our second anniversary was celebrated along with the students, teaching and non teaching staff of the school with the presence of our supporter and volunteers. Awards and mementos were presented to our well-wishes and volunteers. School furnitures, Computers and Educational materials were provided to the school students to encourage them.",
             "images": [
-                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829694/Kanaa%20Website/Activities/Career%20Guidance/1632829424958_mrdh24.jpg",
-                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829576/Kanaa%20Website/Activities/Career%20Guidance/1632829427174_crypx5.jpg",
-                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829574/Kanaa%20Website/Activities/Career%20Guidance/1632829427092_bubdl0.jpg",
-                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829573/Kanaa%20Website/Activities/Career%20Guidance/1632829425930_itt8zu.jpg"
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632832725/Kanaa Website/Activities/School Renovation /1.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632832719/Kanaa Website/Activities/School Renovation /2.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632832545/Kanaa Website/Activities/School Renovation /4.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632832524/Kanaa Website/Activities/School Renovation /6.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1633865200/Kanaa%20Website/Activities/School%20Renovation%20/DSC05053_tajusu.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1633865140/Kanaa%20Website/Activities/School%20Renovation%20/DSC05205_vuktxs.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1633865140/Kanaa%20Website/Activities/School%20Renovation%20/DSC05205_vuktxs.jpg"
             ],
             "altText": "Renovation"
         },
         {
             "id": 7,
-            "title": "NEET batch 2020",
+            "title": "NEET batch 2020 - 13th July 2020 To 4th September 2020",
             "quote": "Start where you are, Use what you have, Do what you can!",
             "description": "Our dream of offering free and quality NEET coaching classes to deserving students became a reality on 13.07.2020- Team Kanaa's very first batch of Free Virtual NEET Coaching classes began with a set of Passionate and deserving NEET aspirants, experienced teachers and finest medical students.",
             "images": [
-                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829694/Kanaa%20Website/Activities/Career%20Guidance/1632829424958_mrdh24.jpg",
-                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829576/Kanaa%20Website/Activities/Career%20Guidance/1632829427174_crypx5.jpg",
-                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829574/Kanaa%20Website/Activities/Career%20Guidance/1632829427092_bubdl0.jpg",
-                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829573/Kanaa%20Website/Activities/Career%20Guidance/1632829425930_itt8zu.jpg"
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632831024/Kanaa%20Website/Activities/Neet%20Batch%202020/1.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632831035/Kanaa Website/Activities/Neet Batch 2020/2.jpg"
             ],
             "altText": "carrer-guidance"
         },

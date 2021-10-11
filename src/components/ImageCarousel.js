@@ -3,11 +3,11 @@ import { Carousel } from 'react-bootstrap'
 
 const ImageCarousel = ({ images, caption, autoChange, content }) => {
     return (
-        <Carousel fade className={"image-corousel" && (!caption && "p-4") && (content && "")}>
+        <Carousel className={"image-corousel" && (!caption && "p-4")}>
             {images.map((image, idx) =>
-                <Carousel.Item key={idx} interval={autoChange === false ? null : 1000}>
+                <Carousel.Item className="corousel-item " key={idx} interval={autoChange === false ? null : 2000}>
                     <img
-                        className="d-block w-100 "
+                        className={content ? "corousel-image img-fluid" : "img-fluid"}
                         src={image}
                         alt="Second slide"
                     />
@@ -15,7 +15,6 @@ const ImageCarousel = ({ images, caption, autoChange, content }) => {
                         content &&
                         <Carousel.Caption>
                             <h3>{content[idx].heading}</h3>
-                            <p>{content[idx].description}</p>
                         </Carousel.Caption>
                     }
                 </Carousel.Item>

@@ -1,7 +1,5 @@
 import React from 'react'
 import { Container, Row, Col, Card } from 'react-bootstrap'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCalendarAlt } from '@fortawesome/free-solid-svg-icons'
 import * as data from "../data"
 const OurMission = () => {
     return (
@@ -11,11 +9,11 @@ const OurMission = () => {
             <Row md={4} sm={3} xs={1} className="gy-4">
                 {
                     data.mission.map((elem, idx) =>
-                        <Col sm={12} md={4} >
+                        <Col sm={12} md={4} key={idx}>
                             <Card.Body>
                                 <Row className="justify-content-center align-items-center">
                                     <Col xs={12} sm={12} md={4} className="text-center mission_icon">
-                                        <FontAwesomeIcon className="icon" icon={faCalendarAlt} size="2x" />
+                                        <img src="/images/giphy.gif" alt="loading..." />
                                     </Col>
                                     <Col className="mission_desc" sm={12} md={8}>
                                         <Card.Title>{elem.title}</Card.Title>
@@ -29,7 +27,7 @@ const OurMission = () => {
                     )
                 }
             </Row>
-        </Container>
+        </Container >
     )
 }
 

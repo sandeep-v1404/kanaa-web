@@ -32,8 +32,7 @@ body {
 .link {
   text-decoration: none;
 }
-
-.home-page img {
+.corousel-image {
   opacity: 0.5;
 }
 
@@ -103,10 +102,9 @@ body {
   margin-bottom: 5rem;
 }
 
-.mission_icon {
-  background: #b1e693;
-  color: white;
-  padding: 50px;
+.mission_icon img {
+  width: 100px;
+  object-fit: contain;
 }
 .mission_desc {
   color: #dbddf1;
@@ -156,5 +154,8 @@ body {
   }
   .test-img {
     padding: 10px;
+  }
+  .corousel-item h3 {
+    font-size: 15px !important;
   }
 }

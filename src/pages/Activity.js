@@ -9,7 +9,7 @@ const Activity = ({ match }) => {
         <Container fluid className="text-light">
             {data.activities.map((activity, idx) => {
                 return (idx == parseInt(match.params.id)) && (<>
-                    <Row className="bg-warning">
+                    <Row className="bg-warning" key={idx}>
                         <Col>
                             <h2 className="p-md-5 p-2 fw-bolder text-dark">{activity.title}</h2>
                         </Col>

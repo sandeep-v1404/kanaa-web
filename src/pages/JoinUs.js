@@ -1,11 +1,11 @@
 import React from 'react'
 import { Container, Row, Col, Card } from 'react-bootstrap';
 import ImageCarousel from '../components/ImageCarousel';
-import TestimonialVol from './TestimonialVol';
+import TestimonialVol from '../components/TestimonialVol';
 
 const JoinUs = () => {
     return (
-        <Container >
+        <Container fluid>
             <Row className="p-3 p-md-5 bg-warning">
                 <Col>
                     <h2 className="fw-bolder text-dark">Join Us</h2>

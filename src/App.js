@@ -9,8 +9,8 @@ import Admission from './pages/Admission';
 import ScrollToTop from './utils/ScrollToTop';
 import Activities from './pages/Activities';
 import Activity from './pages/Activity';
-import About from './components/About';
-import JoinUs from './components/JoinUs';
+import About from './pages/About';
+import JoinUs from './pages/JoinUs';
 
 function App() {
   return (
