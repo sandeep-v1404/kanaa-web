@@ -4,6 +4,11 @@ import * as data from "../data"
 const Admission = () => {
     return (
         <Container className="mt-5 text-light">
+            <Row className="p-3 p-md-5 bg-warning">
+                <Col>
+                    <h2 className="fw-bolder text-dark">Admission</h2>
+                </Col>
+            </Row>
             <Row style={{ marginTop: "100px" }} className="justify-content-around align-items-center ">
                 <Col sm={12}>
                     <img src="https://res.cloudinary.com/teamkanaa/image/upload/v1634057794/Kanaa%20Website/Awards/Admission.jpg" className="img-fluid" alt="loading..." />
