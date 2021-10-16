@@ -2,18 +2,6 @@ import React from 'react'
 import { Card } from 'react-bootstrap';
 import Carousel from 'react-elastic-carousel'
 
-// const Item = styled.div`
-//   display: flex;
-//   justify-content: center;
-//   align-items: center;
-//   height: 250px;
-//   width: 100%;
-//   background-color: rgba(255, 255, 255, 0.7);
-//   color: #fff;
-//   margin: 0 15px;
-//   font-size: 4em;
-// `;
-
 const breakPoints = [
     { width: 1, itemsToShow: 1 },
     { width: 768, itemsToShow: 2 },

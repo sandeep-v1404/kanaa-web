@@ -2,7 +2,7 @@ import React from 'react'
 import "../Footer.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelopeOpen, faMapMarkerAlt, faPhone } from '@fortawesome/free-solid-svg-icons'
-import { faFacebook, faInstagram, faTwitter } from '@fortawesome/free-brands-svg-icons'
+import { faFacebook, faInstagram, faTwitter, faYoutube } from '@fortawesome/free-brands-svg-icons'
 import { Link } from 'react-router-dom'
 
 const Footer = () => {
@@ -12,21 +12,13 @@ const Footer = () => {
             <div className="container">
                 <div className="footer-cta py-5">
                     <div className="row justify-content-center align-items-center">
-                        <div className="col-xl-4 col-md-4 ">
-                            <div className="single-cta">
-                                <FontAwesomeIcon className="icon" icon={faMapMarkerAlt} />
-                                <div className="cta-text">
-                                    <h4>Find us</h4>
-                                    <span>1010</span>
-                                </div>
-                            </div>
-                        </div>
+
                         <div className="col-xl-4 col-md-4 ">
                             <div className="single-cta">
                                 <FontAwesomeIcon className="icon" icon={faPhone} />
                                 <div className="cta-text">
                                     <h4>Call us</h4>
-                                    <span>9876543210 0</span>
+                                    <span className="fw-bolder">+91 7358308584 / 8428762029 / 9003272086</span>
                                 </div>
                             </div>
                         </div>
@@ -35,7 +27,7 @@ const Footer = () => {
                                 <FontAwesomeIcon className="icon" icon={faEnvelopeOpen} />
                                 <div className="cta-text">
                                     <h4>Mail us</h4>
-                                    <span>mail@info.com</span>
+                                    <span className="fw-bolder">contact2teamkanaa@gmail.com</span>
                                 </div>
                             </div>
                         </div>
@@ -46,23 +38,24 @@ const Footer = () => {
                         <div className="col-xl-4 col-lg-4 mb-50">
                             <div className="footer-widget">
                                 <div className="footer-logo">
-                                    <a href="index.html">
-                                        <img src="/images/eng-logo.png" className="img-fluid" alt="logo" /></a>
+                                    <a href="/">
+                                        <img src="/images/eng-logo.png" className="img-fluid" alt="logo" />
+                                    </a>
                                 </div>
                                 <div className="footer-text">
-                                    <p>Lorem ipsum dolor sit amet, consec tetur adipisicing elit, sed do eiusmod tempor incididuntut consec tetur adipisicing
-                                        elit,Lorem ipsum dolor sit amet.</p>
+                                    <p> 7/1 Embar naidu 2nd street,
+                                        Villivakkam, Chennai-600049</p>
                                 </div>
                                 <div className="footer-social-icon">
                                     <span>Follow us</span>
 
-                                    <a href="https://facebook.com" target="_blank" rel="noreferrer">
+                                    <a href="https://www.facebook.com/teamkanaaOffical/" target="_blank" rel="noreferrer">
                                         <FontAwesomeIcon className="icon" icon={faFacebook} />
                                     </a>
-                                    <a href="https://twitter.com" target="_blank" rel="noreferrer">
-                                        <FontAwesomeIcon className="icon" icon={faTwitter} />
+                                    <a href="https://youtube.com/channel/UCXxDN9TaPCmlSrIJlRFePpg" target="_blank" rel="noreferrer">
+                                        <FontAwesomeIcon className="icon" icon={faYoutube} />
                                     </a>
-                                    <a href="https://instagram.com" target="_blank" rel="noreferrer">
+                                    <a href='https://instagram.com/team_kanaa?utm_medium=copy_link' target="_blank" rel="noreferrer">
                                         <FontAwesomeIcon className="icon" icon={faInstagram} />
                                     </a>
                                 </div>

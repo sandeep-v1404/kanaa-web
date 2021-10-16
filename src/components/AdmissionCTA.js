@@ -1,7 +1,7 @@
 import React from 'react'
 import { Container, Button, Row, Col } from 'react-bootstrap';
-
-const AdmissionForm = () => {
+import * as data from "../data"
+const AdmissionCTA = () => {
     return (
         <Container fluid>
             <Row className="bg-warning justify-content-around  align-items-center py-5">
@@ -11,7 +11,7 @@ const AdmissionForm = () => {
                     </h1>
                 </Col>
                 <Col md={{ span: 3, offset: 2 }}>
-                    <Button variant="light">
+                    <Button variant="light" href={data.googleFormLink} target="_blank">
                         Join Now
                     </Button>
                 </Col>
@@ -20,4 +20,4 @@ const AdmissionForm = () => {
     )
 }
 
-export default AdmissionForm
+export default AdmissionCTA

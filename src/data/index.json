@@ -37,6 +37,23 @@
         ]
     },
     "newsUpdate": "New Registrations Open ! We are back with our third batch of Free Virtual NEET Coaching Classes. Apply now by filling out the form .......... We are looking for tutors for our NEET Classes! Interested applicants can fill out the registration form ........Now you can be a part of Team Kanaa too! Register as a volunteer....",
+    "info": [
+        {
+            "id": 0,
+            "title": "Dream - If you can dream it you can do it",
+            "description": "We are here to make it happen by being a support for many such dreamers who are in need."
+        },
+        {
+            "id": 1,
+            "title": "Aspire - Don't aspire to make a living Aspire to make a difference",
+            "description": "We are here to make that difference by being a guide in the paths of the aspirer's education."
+        },
+        {
+            "id": 2,
+            "title": "Do - You are what you do, not what you say you'll do",
+            "description": "We are here to do our part in reaching the unreached and do our best to uplift them."
+        }
+    ],
     "activities": [
         {
             "id": 0,
@@ -149,29 +166,10 @@
             "description": "Sometimes all that we need is the guidance of others because just listening to the experiences of a person will offer us wonderful life lessons that we can use to embark on our own journey. Team Kanaa organized a motivational talk cum webinar for all NEEt aspirants and our own batch students to eliminate their worries and fears related to the NEET exam and to clarify all their career related doubts and queries from a professional. Dr. Prabhakar, an eminent Orthopedicaian answered all their queries in a hour long fun and interactive session by preparing and motivating them to face their exams confidently and enlightening them with different career options.",
             "quote": "We rise by lifting others",
             "images": [
-                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829694/Kanaa%20Website/Activities/Career%20Guidance/1632829424958_mrdh24.jpg",
-                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829576/Kanaa%20Website/Activities/Career%20Guidance/1632829427174_crypx5.jpg",
-                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829574/Kanaa%20Website/Activities/Career%20Guidance/1632829427092_bubdl0.jpg",
-                "https://res.cloudinary.com/teamkanaa/image/upload/v1632829573/Kanaa%20Website/Activities/Career%20Guidance/1632829425930_itt8zu.jpg"
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632830427/Kanaa Website/Activities/EduNext 2.o/1.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632830427/Kanaa Website/Activities/EduNext 2.o/2.jpg"
             ],
             "altText": "carrer-guidance"
-        }
-    ],
-    "info": [
-        {
-            "id": 0,
-            "title": "Dream - If you can dream it you can do it",
-            "description": "We are here to make it happen by being a support for many such dreamers who are in need."
-        },
-        {
-            "id": 1,
-            "title": "Aspire - Don't aspire to make a living Aspire to make a difference",
-            "description": "We are here to make that difference by being a guide in the paths of the aspirer's education."
-        },
-        {
-            "id": 2,
-            "title": "Do - You are what you do, not what you say you'll do",
-            "description": "We are here to do our part in reaching the unreached and do our best to uplift them."
         }
     ],
     "mission": [
@@ -191,5 +189,119 @@
             "description": "Participating and offering our volunteering services for social causes"
         }
     ],
-    "aboutUs": "Our entire team of consists of 13 core members out of which 12 are engineering graduates and a meritorious medical aspirant.Although we all grew up from from different difficult circumstances and different cities, two things brought the 13 of us together: our college and our unified ambition i.e to make a difference in the lives of others. We met for the first time in 2017 and Team Kanaa was born in 2019 and we're getting stronger everyday since then. We started off as just 13 people and now we're close to 50+ volunteers and the good news is you can be a part of us too!"
+    "googleFormLink": "https://forms.gle/HpZyVLGkib8q7VMt6",
+    "awards": [
+        {
+            "id": 0,
+            "date": "December 10, 2019",
+            "heading": "Award for Volunteering and Participating at the Kalam Book of Records event by contributing to the largest manuscript On World Human Rights Day",
+            "imageURL": "https://res.cloudinary.com/teamkanaa/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1633866816/Kanaa%20Website/Awards/for%20NVEN%20event/1.png"
+        },
+        {
+            "id": 1,
+            "date": "December 12, 2020",
+            "heading": "Best Organization award at the Social Protection International Peace conference and SPT Peace Awards 2020.",
+            "imageURL": "https://res.cloudinary.com/teamkanaa/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1633866739/Kanaa%20Website/Awards/Best%20Organizantion/1.png"
+        },
+        {
+            "id": 2,
+            "date": "January 12, 2020",
+            "heading": "Award for Volunteering support at the Medical Camp in Saligramam",
+            "imageURL": "https://res.cloudinary.com/teamkanaa/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1634055837/Kanaa%20Website/Awards/Blood%20camp/Final.png"
+        },
+        {
+            "id": 3,
+            "date": "March 10,2020",
+            "heading": "Award for school Renovation of P.U.P.S Govt school , Jamin Korattur by SSA Tamilnadu.",
+            "imageURL": "https://res.cloudinary.com/teamkanaa/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1634055025/Kanaa%20Website/Awards/SSA%20Tamilnadu%20for%20School%20Renovation/1.png"
+        }
+    ],
+    "volunteerTestimonials": [
+        {
+            "id": 0,
+            "name": "",
+            "description": "",
+            "imageURL": ""
+        },
+        {
+            "id": 1,
+            "name": "",
+            "description": "",
+            "imageURL": ""
+        },
+        {
+            "id": 2,
+            "name": "",
+            "description": "",
+            "imageURL": ""
+        },
+        {
+            "id": 3,
+            "name": "",
+            "description": "",
+            "imageURL": ""
+        },
+        {
+            "id": 4,
+            "name": "",
+            "description": "",
+            "imageURL": ""
+        },
+        {
+            "id": 5,
+            "name": "",
+            "description": "",
+            "imageURL": ""
+        },
+        {
+            "id": 6,
+            "name": "",
+            "description": "",
+            "imageURL": ""
+        },
+        {
+            "id": 7,
+            "name": "",
+            "description": "",
+            "imageURL": ""
+        },
+        {
+            "id": 8,
+            "name": "",
+            "description": "",
+            "imageURL": ""
+        },
+        {
+            "id": 9,
+            "name": "",
+            "description": "",
+            "imageURL": ""
+        },
+        {
+            "id": 10,
+            "name": "",
+            "description": "",
+            "imageURL": ""
+        },
+        {
+            "id": 11,
+            "name": "",
+            "description": "",
+            "imageURL": ""
+        },
+        {
+            "id": 12,
+            "name": "",
+            "description": "",
+            "imageURL": ""
+        },
+        {
+            "id": 13,
+            "name": "",
+            "description": "",
+            "imageURL": ""
+        }
+    ],
+    "admissionOneFormLink": "https://docs.google.com/forms/d/e/1FAIpQLSduiXs3LWEmNJ1xMypV4MjRMHzHr_wgkZIAkCDLoHKij5fTmQ/viewform",
+    "admissionTwoFormLink": "https://forms.gle/mf1WrSL9fxbVetRH7"
 }
