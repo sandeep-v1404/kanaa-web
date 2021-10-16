@@ -14,13 +14,13 @@ const Awards = () => {
 
             <Carousel breakPoints={breakPoints}>
                 {data.awards.map((elem, idx) =>
-                    <Card key={elem.id} style={{ width: "100%" }} className="test-card text-center">
+                    <Card key={elem.id} style={{ width: "100%" }} className="award-card text-center">
                         <div className="test-img">
                             <img src={elem.imageURL} alt="as" />
                         </div>
                         <Card.Body>
-                            <Card.Title>{elem.date} </Card.Title>
-                            <Card.Text>
+                            <Card.Title className="heading fw-bolder">{elem.date} </Card.Title>
+                            <Card.Text className="description-big ">
                                 {elem.heading}
                             </Card.Text>
                         </Card.Body>

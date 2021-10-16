@@ -1,6 +1,7 @@
 import React from 'react'
 import { Container, Button, Row, Col } from 'react-bootstrap';
 import * as data from "../data"
+
 const AdmissionCTA = () => {
     return (
         <Container fluid>

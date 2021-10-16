@@ -100,7 +100,6 @@ ul {
 }
 .footer-widget ul li {
   display: inline-block;
-  float: left;
   width: 50%;
   margin-bottom: 12px;
 }
@@ -157,4 +156,28 @@ ul {
 .footer-menu li a {
   font-size: 14px;
   color: #878787;
+}
+
+@media screen and (max-width: 420px) {
+  .footer-section {
+    padding: 5px;
+  }
+  .single-cta .icon {
+    color: #ff5e14;
+    font-size: 20px;
+    float: left;
+    margin-top: 8px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .cta-text {
+    display: block;
+    font-size: 10px;
+  }
+  .cta-text h4 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 2px;
+  }
 }

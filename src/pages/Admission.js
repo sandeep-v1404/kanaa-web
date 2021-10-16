@@ -1,15 +1,14 @@
 import React from 'react'
 import { Container, Row, Col, Card, Button } from 'react-bootstrap';
-import ImageCarousel from '../components/ImageCarousel';
 import * as data from "../data"
 const Admission = () => {
     return (
         <Container className="mt-5 text-light">
             <Row style={{ marginTop: "100px" }} className="justify-content-around align-items-center ">
-                <Col md={6} sm={12}>
-                    <ImageCarousel images={['https://res.cloudinary.com/teamkanaa/image/upload/v1634057794/Kanaa%20Website/Awards/Admission.jpg']} />
+                <Col sm={12}>
+                    <img src="https://res.cloudinary.com/teamkanaa/image/upload/v1634057794/Kanaa%20Website/Awards/Admission.jpg" className="img-fluid" alt="loading..." />
                 </Col>
-                <Col md={6} sm={12}>
+                <Col sm={12}>
                     <Card bg={"dark"} text={'white'}>
                         <Card.Body>
                             <Card.Title>

@@ -13,7 +13,7 @@ const JoinUs = () => {
             </Row>
 
             <Row className="mt-2 justify-content-around align-items-center ">
-                <Col md={6} >
+                <Col md={10} >
                     <ImageCarousel images={['https://res.cloudinary.com/teamkanaa/image/upload/v1632825612/Kanaa Website/Slider/2.jpg']} />
                 </Col>
 

@@ -1,8 +1,8 @@
 import React from 'react'
 import "../Footer.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faEnvelopeOpen, faMapMarkerAlt, faPhone } from '@fortawesome/free-solid-svg-icons'
-import { faFacebook, faInstagram, faTwitter, faYoutube } from '@fortawesome/free-brands-svg-icons'
+import { faEnvelopeOpen, faPhone } from '@fortawesome/free-solid-svg-icons'
+import { faFacebook, faInstagram, faTelegramPlane, faYoutube } from '@fortawesome/free-brands-svg-icons'
 import { Link } from 'react-router-dom'
 
 const Footer = () => {
@@ -86,7 +86,11 @@ const Footer = () => {
                                 <div className="subscribe-form">
                                     <form action="#">
                                         <input type="text" placeholder="Email Address" />
-                                        <button><i className="fab fa-telegram-plane"></i></button>
+                                        <a href='https://instagram.com/team_kanaa?utm_medium=copy_link' target="_blank" rel="noreferrer">
+                                        </a>
+                                        <button>
+                                            <FontAwesomeIcon className="icon" icon={faTelegramPlane} />
+                                        </button>
                                     </form>
                                 </div>
                             </div>
@@ -99,7 +103,7 @@ const Footer = () => {
                     <div className="row">
                         <div className="col text-center">
                             <div className="copyright-text">
-                                <p>Copyright &copy; {year}, All Right Reserved <a href="https://codepen.io/anupkumar92/">Kaana</a></p>
+                                <p>Copyright &copy; {year}, All Right Reserved <a href="/">Kaana</a></p>
                             </div>
                         </div>
                     </div>

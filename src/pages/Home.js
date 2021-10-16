@@ -16,7 +16,7 @@ const Home = () => {
         <>
             <Container fluid className="mt-5">
                 <Row>
-                    <Col >
+                    <Col>
                         <ImageCarousel caption={true} images={data.homeSlider.images} content={data.homeSlider.content} />
                     </Col>
                 </Row>

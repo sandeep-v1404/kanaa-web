@@ -16,8 +16,8 @@ const Activities = () => {
                     <Col md={6} sm={12} >
                         <ImageCarousel images={activity.images} caption={false} autoChange={false} />
                     </Col>
-                    <Col md={6} sm={12}>
-                        <Card bg={"dark"} text={'white'}>
+                    <Col md={6} sm={12} >
+                        <Card bg={"dark"} text={'white'} >
                             <Card.Body>
                                 <Card.Title className="fw-bolder fs-4">{activity.title}</Card.Title>
                                 {activity.quote &&

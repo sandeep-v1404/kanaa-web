@@ -4,6 +4,7 @@ import React, { Fragment } from 'react'
 import { Button, Col, Container, Row } from 'react-bootstrap'
 import { useHistory } from 'react-router-dom'
 import * as data from "../data"
+
 const ActivitiesPane = () => {
     const history = useHistory();
     return (
