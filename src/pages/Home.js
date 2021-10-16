@@ -10,7 +10,9 @@ import OurMission from '../components/OurMission';
 import TestimonialVol from '../components/TestimonialVol';
 import TestimonialStudents from '../components/TestimonialStudents';
 import Awards from '../components/Awards';
+
 import * as data from "../data"
+import WellWishers from '../components/WellWishers';
 const Home = () => {
     return (
         <>
@@ -28,6 +30,7 @@ const Home = () => {
                 <OurMission />
                 <Awards />
                 <TestimonialVol />
+                <WellWishers />
                 <TestimonialStudents />
             </Container>
         </>

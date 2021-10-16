@@ -45,7 +45,7 @@
         },
         {
             "id": 1,
-            "title": "Aspire - Don't aspire to make a living Aspire to make a difference",
+            "title": "Aspire - Don't aspire to make a living, Aspire to make a difference",
             "description": "We are here to make that difference by being a guide in the paths of the aspirer's education."
         },
         {
@@ -97,7 +97,7 @@
             "id": 3,
             "title": "Edunext - 23 Oct 2019",
             "quote": "Education is the passport to future, for tomorrow belongs to those who prepare for it today",
-            "description": "Education is the most powerful weapon which you can use to change the world. The weapon should be chosen wisely which needs proper guidance. EduNest is an event we started as a next step towards career guidance. Our team guided the students of XII grade to choose their education in a wiser way and create a bright future. We reached the students of Sri Muthukumaraswamy Devasthanam P Venugopal Chetty Higher Secondary School, Purasaivakkam and gave an idea on what they can choose after their school studies. We cleared all their doubts. We made them get rid of their fears in their mind on exams and also on their future. We gave a clear idea on the course which they can avail in various colleges for different streams.",
+            "description": "Education is the most powerful weapon which you can use to change the world. The weapon should be chosen wisely which needs proper guidance. EduNext is an event we started as a next step towards career guidance. Our team guided the students of XII grade to choose their education in a wiser way and create a bright future. We reached the students of Sri Muthukumaraswamy Devasthanam P Venugopal Chetty Higher Secondary School, Purasaivakkam and gave an idea on what they can choose after their school studies. We cleared all their doubts. We made them get rid of their fears in their mind on exams and also on their future. We gave a clear idea on the course which they can avail in various colleges for different streams.",
             "images": [
                 "https://res.cloudinary.com/teamkanaa/image/upload/v1632829924/Kanaa%20Website/Activities/EduNext/1.jpg",
                 "https://res.cloudinary.com/teamkanaa/image/upload/v1632830118/Kanaa%20Website/Activities/EduNext/2.jpg",
@@ -144,7 +144,6 @@
                 "https://res.cloudinary.com/teamkanaa/image/upload/v1632832545/Kanaa Website/Activities/School Renovation /4.jpg",
                 "https://res.cloudinary.com/teamkanaa/image/upload/v1632832524/Kanaa Website/Activities/School Renovation /6.jpg",
                 "https://res.cloudinary.com/teamkanaa/image/upload/v1633865200/Kanaa%20Website/Activities/School%20Renovation%20/DSC05053_tajusu.jpg",
-                "https://res.cloudinary.com/teamkanaa/image/upload/v1633865140/Kanaa%20Website/Activities/School%20Renovation%20/DSC05205_vuktxs.jpg",
                 "https://res.cloudinary.com/teamkanaa/image/upload/v1633865140/Kanaa%20Website/Activities/School%20Renovation%20/DSC05205_vuktxs.jpg"
             ],
             "altText": "Renovation"
@@ -155,15 +154,15 @@
             "quote": "Start where you are, Use what you have, Do what you can!",
             "description": "Our dream of offering free and quality NEET coaching classes to deserving students became a reality on 13.07.2020- Team Kanaa's very first batch of Free Virtual NEET Coaching classes began with a set of Passionate and deserving NEET aspirants, experienced teachers and finest medical students.",
             "images": [
-                "https://res.cloudinary.com/teamkanaa/image/upload/v1632831024/Kanaa%20Website/Activities/Neet%20Batch%202020/1.jpg",
-                "https://res.cloudinary.com/teamkanaa/image/upload/v1632831035/Kanaa Website/Activities/Neet Batch 2020/2.jpg"
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632831024/Kanaa%20Website/Activities/NEET%20Batch%202020/1.jpg",
+                "https://res.cloudinary.com/teamkanaa/image/upload/v1632831035/Kanaa Website/Activities/NEET Batch 2020/2.jpg"
             ],
             "altText": "carrer-guidance"
         },
         {
             "id": 8,
             "title": "Edunext 2.0 - 2 Aug 2020",
-            "description": "Sometimes all that we need is the guidance of others because just listening to the experiences of a person will offer us wonderful life lessons that we can use to embark on our own journey. Team Kanaa organized a motivational talk cum webinar for all NEEt aspirants and our own batch students to eliminate their worries and fears related to the NEET exam and to clarify all their career related doubts and queries from a professional. Dr. Prabhakar, an eminent Orthopedicaian answered all their queries in a hour long fun and interactive session by preparing and motivating them to face their exams confidently and enlightening them with different career options.",
+            "description": "Sometimes all that we need is the guidance of others because just listening to the experiences of a person will offer us wonderful life lessons that we can use to embark on our own journey. Team Kanaa organized a motivational talk cum webinar for all NEET aspirants and our own batch students to eliminate their worries and fears related to the NEET exam and to clarify all their career related doubts and queries from a professional. Dr. Prabhakar, an eminent Orthopedicaian answered all their queries in a hour long fun and interactive session by preparing and motivating them to face their exams confidently and enlightening them with different career options.",
             "quote": "We rise by lifting others",
             "images": [
                 "https://res.cloudinary.com/teamkanaa/image/upload/v1632830427/Kanaa Website/Activities/EduNext 2.o/1.jpg",
@@ -174,10 +173,13 @@
     ],
     "mission": [
         {
-            "description": "Creating awarness among students about different educational opportunities, scholarships for deserving and underprivileged students and guide students from all walks of life about the different career paths available"
+            "description": "Creating awareness among students about different educational opportunities and scholarships for college studies."
         },
         {
-            "description": "To provide free NEET coaching classes to deserving and financially deprived students, especially government school students but also to both english and tamil medium students so that they participate in the competitive exam irrespective of their financial status or medium of instruction"
+            "description": "Offering career guidance programs to school students to enable them choose right career paths"
+        },
+        {
+            "description": "To provide free NEET coaching classes to deserving and financially deprived students of both English and Tamil Medium"
         },
         {
             "description": "Putting in conscious efforts into doing better, being better people and in creating a better society"
@@ -218,6 +220,18 @@
     ],
     "volunteerTestimonials": [
         {
+            "id": 4,
+            "name": "Jayaroshini  - Student at Sathyabama Institute of Science and Technology / Moderator",
+            "description": "I have been part of Team Kanaa for the past two years as a mentor and moderator.More than an organization we have been a supportive family even when we had good times and bad times.From our Team I have learned and improved several skills which couldn't be taught anywhere else, I gained a greater understanding of people, interactions with strangers, handling difficult situations, taking concern of others problems, t and best parts of us is even we never forget´s to celebrate the tiniest joys.",
+            "imageURL": "https://res.cloudinary.com/teamkanaa/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1633104316/Kanaa%20Website/Testimonials/Roshini_jeqrwh.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Deepika S - Student at Sathyabama Institute of Science and Technology / Moderator",
+            "description": "I'm the one who is keen to do volunteering and Kanaa gives me that opportunity to explore this new experience and I usually feel shy to talk with strangers but at Team Kanaa, I have overcome this and the things I do here makes me feels like - I am also a  part of their success and makes me feel great that I have helped someone in indirectly and that's great and I feel satisfied.Apart from this I had a great family here .",
+            "imageURL": "https://res.cloudinary.com/teamkanaa/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1633104316/Kanaa%20Website/Testimonials/Deepika_lvxt7l.jpg"
+        },
+        {
             "id": 0,
             "name": "G Varsha - Student at Sathyabama Institute of Science and Technology / Moderator",
             "description": "It's been a marvelous experience to be one of the volunteers in Team Kana. Educating students for the first time has been a great thing and I feel very happy to be a part of this. Team Kanaa especially taught me to be kind and interactive with students and even to strangers and has taught me teamwork, certain technical aspects.The bond between us is incredible and I wish it remains the same.Every moment is an experience in Team Kanaa.",
@@ -242,12 +256,6 @@
             "imageURL": "https://res.cloudinary.com/teamkanaa/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1633104319/Kanaa%20Website/Testimonials/Pavithra_prakash_mrps2a.jpg"
         },
         {
-            "id": 4,
-            "name": "Jayaroshini  - Student at Sathyabama Institute of Science and Technology / Moderator",
-            "description": "I have been part of Team Kanaa for the past two years as a mentor and moderator.More than an organization we have been a supportive family even when we had good times and bad times.From our Team I have learned and improved several skills which couldn't be taught anywhere else, I gained a greater understanding of people, interactions with strangers, handling difficult situations, taking concern of others problems, t and best parts of us is even we never forget´s to celebrate the tiniest joys.",
-            "imageURL": "https://res.cloudinary.com/teamkanaa/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1633104316/Kanaa%20Website/Testimonials/Roshini_jeqrwh.jpg"
-        },
-        {
             "id": 5,
             "name": "Sandhiya - Moderator",
             "description": "I'm the one who had the dream to become a doctor & work in Indian army, but I failed.Whenever I come across medical students wearing white coats ,I could feel something.But after joining this team and seeing Kanaa's effort towards students' dreams similar to the one I had in my past, it gives so much positivity,happiness and it felt something special and close to my heart because it is going to help a student just like me..And the Kanaa family members they are the kindest, lovable, patient, hard working people I ever met..",
@@ -255,15 +263,9 @@
         },
         {
             "id": 6,
-            "name": "Amirthavarshini Sathiya - Neet Batch Trainer",
+            "name": "Amirthavarshini Sathiya - NEET Batch Trainer",
             "description": "I had a very good experience with the team's co-operation. I was a part of it for just a few days but that itself created a very good experience for me. The team was very supportive to the students. The trainers too have put a great effort from their side in spite of their own busy circumstances. As I have been a part of other training institutes, I have seen many students who were not able to afford the training. but Team Kanaa has taken a great initiative in making the dreams of many such students to be achieved.I will always continue to be a part of Team Kanaa.",
             "imageURL": "https://res.cloudinary.com/teamkanaa/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1634030132/Kanaa%20Website/Testimonials/Amirtha.jpg"
-        },
-        {
-            "id": 7,
-            "name": "Deepika S - Student at Sathyabama Institute of Science and Technology / Moderator",
-            "description": "I'm the one who is keen to do volunteering and Kanaa gives me that opportunity to explore this new experience and I usually feel shy to talk with strangers but at Team Kanaa, I have overcome this and the things I do here makes me feels like - I am also a  part of their success and makes me feel great that I have helped someone in indirectly and that's great and I feel satisfied.Apart from this I had a great family here .",
-            "imageURL": "https://res.cloudinary.com/teamkanaa/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1633104316/Kanaa%20Website/Testimonials/Deepika_lvxt7l.jpg"
         },
         {
             "id": 8,
@@ -273,7 +275,7 @@
         },
         {
             "id": 9,
-            "name": " Surya S R - PG Student at Crescent University / Neet Batch Trainer",
+            "name": " Surya S R - PG Student at Crescent University / NEET Batch Trainer",
             "description": "I have been a trainer for a month. I have joined the team during september 2021 as a trainer for chemistry. I was given complete freedom to take classes and the timings are very flexible and all other trainers, moderators are very much supportive. I felt very comfortable with everything and the responses were very fast from the team. I feel that everything goes very systematically.",
             "imageURL": "https://res.cloudinary.com/teamkanaa/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1633104317/Kanaa%20Website/Testimonials/Jeeva_Surya_m2lwis.jpg"
         },
@@ -285,7 +287,7 @@
         },
         {
             "id": 11,
-            "name": " MOHAMED ARMOON SHALIQ - PG Student at VIT / Neet Batch Trainer             ",
+            "name": " MOHAMED ARMOON SHALIQ - PG Student at VIT / NEET Batch Trainer             ",
             "description": "Team Kanaa is not only changing the lives of students but is also changing the lives of their upcoming generations. Education is the passport to the future,for tomorrow belongs to those who prepare for it today.",
             "imageURL": "https://res.cloudinary.com/teamkanaa/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1633953162/Kanaa%20Website/Testimonials/Shaliq.jpg"
         },
@@ -294,22 +296,24 @@
             "name": "Arjun S - PG Student at PSG / Volunteer",
             "description": "This team has helped improve the lives of a lot of children and I hope this work will be carried on for a very long time.   ",
             "imageURL": "https://res.cloudinary.com/teamkanaa/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1634029932/Kanaa%20Website/Testimonials/Arjun.jpg"
-        },
+        }
+    ],
+    "wellWishers": [
         {
-            "id": 13,
+            "id": 0,
             "name": "Dr. G.Merlin Sheeba, Professor -Well wisher ",
             "description": "‘You don't have to be Great to Start ,but you have to Start to be Great’.Kanaa team has reached a milestone of success stories within two years. Success is the sum of small efforts that are tried without stopping on seeing the obstacles. This inspiring energetic team are the supportive hands for many young aspirants. My dear Team, take pride in how far you have come. Have faith in how far you can go and enjoy the journey. My best wishes and support as always with the team.",
             "imageURL": "https://res.cloudinary.com/teamkanaa/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1633951888/Kanaa%20Website/Testimonials/Merlin%20Sheebha%20mam.jpg"
         },
         {
-            "id": 14,
+            "id": 1,
             "name": "Prof.Manjula Devi B (HOD at department Microbiology)- NEET Batch Trainer / Well-Wisher",
             "description": "I came to know about Kanaa through my Student.My experience with Team Kanaa is wonderful .I learnt from Team Kanaa that to help somebody needs not age or experience but we need a pure heart to help. I am amazed to see the youngsters involved in the service needed in the educational area.If u want to be Happy, help the needy people by providing free education because it helps the needy to grow as an individual & lead them a better life. May GOD shower his abundant blessings upon the Team Kanaa. May this Team Kanaa be a blessing to many people.",
             "imageURL": "https://res.cloudinary.com/teamkanaa/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1633953683/Kanaa%20Website/Testimonials/Manjula.jpg"
         },
         {
-            "id": 15,
-            "name": "Boopathy R M.Sc., - Neet Batch Trainer / Well-Wisher",
+            "id": 2,
+            "name": "Boopathy R M.Sc., - NEET Batch Trainer / Well-Wisher",
             "description": "Team Kanaa is well equipped with trainers and moderators, showing determination and consistency. The moderators are responseful and collaborating with them is easy. These traits literally benefit students and trainers mutually.",
             "imageURL": "https://res.cloudinary.com/teamkanaa/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1633104317/Kanaa%20Website/Testimonials/BoopathySanjay_omtyrp.jpg"
         }
@@ -330,7 +334,7 @@
         {
             "id": 2,
             "name": "Priya Dharshini B - NEET Batch Student",
-            "description": "I came to know about Team Kanaa through my friend... <br/> Team Kanaa is like a boon for students like me who have the desire to study but lack financial support. .Team Kanaa has taught me that when we must do anything without any expectations and the essence of the final result that we get will be priceless. When we do so we get more than what we desire. We must try to do good to others as much as we can.If I wouldn't have known about Team Kanaa, I wouldn't have had any scope for my NEET preparation. They are the ones who helped me to believe in myself. Thank you so much for that.",
+            "description": "I came to know about Team Kanaa through my friend... \n\n Team Kanaa is like a boon for students like me who have the desire to study but lack financial support. .Team Kanaa has taught me that when we must do anything without any expectations and the essence of the final result that we get will be priceless. When we do so we get more than what we desire. We must try to do good to others as much as we can.If I wouldn't have known about Team Kanaa, I wouldn't have had any scope for my NEET preparation. They are the ones who helped me to believe in myself. Thank you so much for that.",
             "imageURL": "https://res.cloudinary.com/teamkanaa/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1633954165/Kanaa%20Website/Testimonials/priyadharshini.jpg"
         },
         {
@@ -373,5 +377,11 @@
             "id": 5,
             "content": "NEET coaching classes for the economically weak students"
         }
-    ]
+    ],
+    "aboutUsSlider": {
+        "images": [
+            "https://res.cloudinary.com/teamkanaa/image/upload/v1632818760/Kanaa Website/Slider/Slider 1.jpg",
+            "https://res.cloudinary.com/teamkanaa/image/upload/v1633866303/Kanaa%20Website/About%20us%20/2.jpg"
+        ]
+    }
 }

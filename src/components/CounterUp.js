@@ -1,7 +1,7 @@
 import React from 'react'
 import { Container, Row, Col, Card } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCalendarAlt, faHandHoldingHeart, faUsers } from '@fortawesome/free-solid-svg-icons'
+import { faCalendarAlt, faGraduationCap, faHandHoldingHeart, faUserGraduate, faUsers } from '@fortawesome/free-solid-svg-icons'
 const CounterUp = () => {
     return (
         <Container className="text-light text-center">
@@ -9,7 +9,7 @@ const CounterUp = () => {
             <Row xs={1} sm={1} md={3} className="justify-content-around gy-4">
                 <Col>
                     <div className="counter-box">
-                        <FontAwesomeIcon className="icon" size="2x" icon={faCalendarAlt} />
+                        <FontAwesomeIcon className="icon" size="2x" icon={faUsers} />
                         <Card.Body>
                             <Card.Title className="fs-3 fw-bolder"> 50+  </Card.Title>
                             <Card.Text className="fs-5 fw-bolder">
@@ -44,7 +44,7 @@ const CounterUp = () => {
                 </Col>
                 <Col>
                     <div className="counter-box">
-                        <FontAwesomeIcon className="icon" size="2x" icon={faUsers} />
+                        <FontAwesomeIcon className="icon" size="2x" icon={faUserGraduate} />
                         <Card.Body>
                             <Card.Title className="fs-3 fw-bolder">
                                 40+
@@ -57,7 +57,7 @@ const CounterUp = () => {
                 </Col>
                 <Col>
                     <div className="counter-box">
-                        <FontAwesomeIcon className="icon" size="2x" icon={faUsers} />
+                        <FontAwesomeIcon className="icon" size="2x" icon={faGraduationCap} />
                         <Card.Body>
                             <Card.Title className="fs-3 fw-bolder">
                                 8+
@@ -70,7 +70,7 @@ const CounterUp = () => {
                 </Col>
                 <Col>
                     <div className="counter-box">
-                        <FontAwesomeIcon className="icon" size="2x" icon={faUsers} />
+                        <FontAwesomeIcon className="icon" size="2x" icon={faCalendarAlt} />
                         <Card.Body>
                             <Card.Title className="fs-3 fw-bolder">
                                 10+

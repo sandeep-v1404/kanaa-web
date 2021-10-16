@@ -181,6 +181,8 @@ body {
   .test-card .description {
     font-size: 0.77rem;
     text-align: left;
+    white-space: pre-line;
+    vertical-align: bottom;
   }
   .award-card .description-big {
     font-size: 0.9rem;

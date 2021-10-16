@@ -32,17 +32,24 @@ const Admission = () => {
                         <Card.Body>
                             <Card.Title className="fw-bolder">Neet Free Virtual Coaching class</Card.Title>
                             <Card.Text>
+
                                 Dear NEET Aspirants,<br />
                                 <br />
-                                You are the future doctors responsible to serve our society…<br />
 
-                                And Team Kanaa is here to keep the fire burning in you alive..<br />
+                                You are the future doctors responsible to serve our society!! <br />
+                                <br />
 
-                                New registrations are open for NEET batch of 2022<br />
+                                And Team Kanaa is here to keep the fire burning in you alive !! <br />
+                                <br />
 
-                                Register now to join the classes of our finest tutors.<br />
+                                New registrations are open for NEET batch of 2022 !! <br />
+                                <br />
 
-                                Fill in the form and take up the first step in achieving your dreams<br />
+                                Register now to join the classes of our finest tutors!! <br />
+                                <br />
+
+                                Fill in the form and take up the first step in achieving your dreams. <br />
+                                <br />
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer>
