@@ -17,7 +17,7 @@ const OurMission = () => {
                                     </Col>
                                     <Col className="mission_desc" sm={12} md={8}>
                                         <Card.Title>{elem.title}</Card.Title>
-                                        <Card.Text>
+                                        <Card.Text className="fw-bolder">
                                             {elem.description}
                                         </Card.Text>
                                     </Col>
