@@ -1,9 +1,9 @@
 import React from 'react'
 import { Carousel } from 'react-bootstrap'
 
-const ImageCarousel = ({ images, caption, autoChange, content, about }) => {
+const ImageCarousel = ({ images, autoChange, content, about }) => {
     return (
-        <Carousel className={"image-corousel" && (!caption && "p-4")}>
+        <Carousel className={"image-corousel p-sm-4 p-md-0"}>
             {images.map((image, idx) =>
                 <Carousel.Item className="corousel-item " key={about ? idx : (idx + 100)} interval={autoChange === false ? null : 2000}>
                     <img

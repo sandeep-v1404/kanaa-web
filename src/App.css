@@ -146,6 +146,10 @@ body {
 .award-card .description-big {
   font-size: 20px;
 }
+.admission-image {
+  height: 400px;
+  object-fit: contain;
+}
 
 @keyframes animate {
   0% {

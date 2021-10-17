@@ -12,7 +12,7 @@ const Activities = () => {
                 </Col>
             </Row>
             {data.activities.map((activity, idx) =>
-                <Row className="mt-2 justify-content-around align-items-center mb-5" >
+                <Row key={idx} className="mt-2 justify-content-around align-items-center mb-5" >
                     <Col md={6} sm={12} >
                         <ImageCarousel images={activity.images} caption={false} autoChange={false} />
                     </Col>

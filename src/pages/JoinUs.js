@@ -14,14 +14,14 @@ const JoinUs = () => {
 
             <Row className="mt-2 justify-content-around align-items-center ">
                 <Col md={10} >
-                    <ImageCarousel images={['https://res.cloudinary.com/teamkanaa/image/upload/v1632825612/Kanaa Website/Slider/2.jpg']} />
+                    <img className="img-fluid" src='https://res.cloudinary.com/teamkanaa/image/upload/v1632825612/Kanaa Website/Slider/2.jpg' alt="" />
                 </Col>
 
             </Row>
             <Row className="mt-5 justify-content-around align-items-center ">
                 <Col md={6} sm={12}>
                     <Card bg={"dark"} text={'white'}>
-                        <img src="https://res.cloudinary.com/teamkanaa/image/upload/v1634058932/Kanaa%20Website/Join%20now/1.jpg" alt="" />
+                        <img className="img-fluid" src="https://res.cloudinary.com/teamkanaa/image/upload/v1634058932/Kanaa%20Website/Join%20now/1.jpg" alt="" />
                         <Card.Body>
                             <Card.Title>
                                 Do you have a passion for volunteering?
@@ -39,8 +39,8 @@ const JoinUs = () => {
                     </Card>
                 </Col>
                 <Col md={6} sm={12}>
-                    <Card bg={"dark"} text={'white'}>
-                        <img src="https://res.cloudinary.com/teamkanaa/image/upload/v1634058925/Kanaa%20Website/Join%20now/2.jpg" alt="" />
+                    <Card bg={"dark"} text={'white'} className="mt-3">
+                        <img className="img-fluid" src="https://res.cloudinary.com/teamkanaa/image/upload/v1634058925/Kanaa%20Website/Join%20now/2.jpg" alt="" />
                         <Card.Body>
                             <Card.Title>
                                 Are you someone who can help and assist students to learn?

@@ -1,15 +1,16 @@
 import React from 'react'
 import { Container, Row, Col, Card, Button } from 'react-bootstrap';
+import TestimonialStudents from '../components/TestimonialStudents';
 import * as data from "../data"
 const Admission = () => {
     return (
-        <Container className="mt-5 text-light">
+        <Container fluid className="mt-5">
             <Row className="p-3 p-md-5 bg-warning">
                 <Col>
                     <h2 className="fw-bolder text-dark">Admission</h2>
                 </Col>
             </Row>
-            <Row style={{ marginTop: "100px" }} className="justify-content-around align-items-center ">
+            <Row style={{ marginTop: "10px" }} className="justify-content-around align-items-center ">
                 <Col sm={12}>
                     <img src="https://res.cloudinary.com/teamkanaa/image/upload/v1634057794/Kanaa%20Website/Awards/Admission.jpg" className="img-fluid" alt="loading..." />
                 </Col>
@@ -30,10 +31,10 @@ const Admission = () => {
                     </Card>
                 </Col>
             </Row>
-            <Row style={{ marginTop: "100px" }} className="justify-content-around align-items-center ">
+            <Row style={{ marginTop: "100px" }} className="justify-content-around ">
                 <Col md={6} sm={12}>
                     <Card bg={"dark"} text={'white'}>
-                        <img src="/images/admission1.gif" className="img-fluid" alt="loading..." />
+                        <img src="/images/admission1.gif" className="img-fluid admission-image" alt="loading..." />
                         <Card.Body>
                             <Card.Title className="fw-bolder">Neet Free Virtual Coaching class</Card.Title>
                             <Card.Text>
@@ -65,18 +66,26 @@ const Admission = () => {
                     </Card>
                 </Col>
                 <Col md={6} sm={12}>
-                    <Card bg={"dark"} text={'white'}>
-                        <img src="/images/admission2.gif" className="img-fluid" alt="loading..." />
+                    <Card bg={"dark"} text={'white'} className="mt-sm-3">
+                        <img src="/images/admission2.gif" className="img-fluid admission-image" alt="loading..." />
                         <Card.Body>
-                            <Card.Title>
+                            <Card.Title className="fw-bolder">
                                 College education Referral and Assistance Program
                             </Card.Title>
                             <Card.Text>
-                                If you are a student with financial difficulties to get into college, we can help you get into good colleges through NGOs and foundations partnered with respective colleges. We acts as a bridge , and shortlist your profile and send deserving candidates to the respective foundations and they help you further with the admission process.
-                                <br />
-                                <br />
-                                Check out the eligibility criteria in the "Higher Education Referral and Assistance Program" form and apply now
 
+                                If you are a student with financial difficulties to get into college, <br />
+                                <br />
+
+                                we can help you get into good colleges through NGOs and foundations partnered with respective colleges.<br />
+                                <br />
+
+
+                                We acts as a bridge , and shortlist your profile and send deserving candidates to the respective foundations and they help you further with the admission process.<br />
+                                <br />
+
+                                Check out the eligibility criteria in the "Higher Education Referral and Assistance Program" form and apply now<br />
+                                <br />
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer>
@@ -87,7 +96,7 @@ const Admission = () => {
                     </Card>
                 </Col>
             </Row>
-
+            <TestimonialStudents />
         </Container>
     )
 }
